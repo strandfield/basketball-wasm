@@ -1,0 +1,6 @@
+﻿.qtc_clangd
+*.obj
+*.cpp
+Makefile
+*.qrc
+.qmake.stash
